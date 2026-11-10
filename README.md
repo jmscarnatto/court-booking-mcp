@@ -2,9 +2,7 @@
 
 A small MCP server that lets an AI agent find and book a padel, pickleball or tennis court.
 
-[![Watch the 56-second demo](demo/poster.png)](demo/court-booking-mcp-demo.mp4)
-
-*Click the image to watch the 56-second demo with sound. The video is an animation of a recorded agent run.*
+https://github.com/user-attachments/assets/5f8b9712-ae40-499e-800a-85b9086bc5ed
 
 It runs on mock data kept in memory. It is a demo of how a booking platform could expose its product to AI agents, not a client for a real API.
 
